@@ -21,7 +21,7 @@
       width: 50%;
     "
   >
-    Agora que já cursei boa parte do back-end na <a href="https://www.betrybe.com/">Trybe</a> e que precisei escolher um lado da força, percebi que o meu coração é metade front e metade back. Portanto, atualmente busco uma oportunidade para mostrar toda essa paixão na vivência, sendo um <code>dev front, back ou full stack</code>!
+    Agora que já cursei boa parte do back-end na <a href="https://www.betrybe.com/">Trybe</a> e que precisei escolher um lado da força, percebi que o meu coração é metade front e metade back. Portanto, estou em busca de uma oportunidade para mostrar toda essa paixão na vivência, atuando como um <code>dev front, back ou full stack</code>!
   </h4>
 
   <div
