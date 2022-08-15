@@ -68,18 +68,11 @@
 >
   Stacks primárias:
 </h3>
-<div>
-  <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <p style="font-weight: 700">JavaScript</p>
-</div>
-<div>
-  <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <p style="font-weight: 700">HTML5</p>
-</div>
-<div>
-  <img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <p style="font-weight: 700">CSS3</p>
-</div>
+
+| <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  | <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> | <img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> |
+| :---    | :----    | :---    |
+| <p style="text-align: center; font-weight: 700">JavaScript</p> | <p style="text-align: center; font-weight: 700">HTML5</p> | <p style="text-align: center; font-weight: 700">CSS3</p> |
+
 <div>
   <img alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <p style="font-weight: 700">Git</p>
