@@ -70,7 +70,7 @@
 </h3>
 
 | <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  | <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> | <img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> |
-| :---    | :----    | :---    |
+| :---:  | :----:  | :---:  |
 | <p style="text-align: center; font-weight: 700">JavaScript</p> | <p style="text-align: center; font-weight: 700">HTML5</p> | <p style="text-align: center; font-weight: 700">CSS3</p> |
 
 <div>
