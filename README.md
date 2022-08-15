@@ -68,56 +68,45 @@
 >
   Stacks primárias:
 </h3>
-
-<div
-  style="
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    flex-wrap: wrap;
-  "
->
-  <div>
-    <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <p style="text-align: center; font-weight: 700">JavaScript</p>
-  </div>
-  <div>
-    <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <p style="text-align: center; font-weight: 700">HTML5</p>
-  </div>
-  <div>
-    <img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-    <p style="text-align: center; font-weight: 700">CSS3</p>
-  </div>
-  <div>
-    <img alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-    <p style="text-align: center; font-weight: 700">Git</p>
-  </div>
-  <div>
-    <img alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-    <p style="text-align: center; font-weight: 700">ReactJS</p>
-  </div>
-  <div>
-    <img alt="Redux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-    <p style="text-align: center; font-weight: 700">Redux</p>
-  </div>
-  <div>
-    <img alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-    <p style="text-align: center; font-weight: 700">MySQL</p>
-  </div>
-  <div>
-    <img alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-    <p style="text-align: center; font-weight: 700">NodeJS</p>
-  </div>
-  <div>
-    <img alt="ExpressJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
-    <p style="text-align: center; font-weight: 700">ExpressJS</p>
-  </div>
-  <div>
-    <img alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <p style="text-align: center; font-weight: 700">TypeScript</p>
-  </div>
+<div>
+  <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <p style="font-weight: 700">JavaScript</p>
+</div>
+<div>
+  <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <p style="font-weight: 700">HTML5</p>
+</div>
+<div>
+  <img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <p style="font-weight: 700">CSS3</p>
+</div>
+<div>
+  <img alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <p style="font-weight: 700">Git</p>
+</div>
+<div>
+  <img alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <p style="font-weight: 700">ReactJS</p>
+</div>
+<div>
+  <img alt="Redux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <p style="font-weight: 700">Redux</p>
+</div>
+<div>
+  <img alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  <p style="font-weight: 700">MySQL</p>
+</div>
+<div>
+  <img alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <p style="font-weight: 700">NodeJS</p>
+</div>
+<div>
+  <img alt="ExpressJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+  <p style="font-weight: 700">ExpressJS</p>
+</div>
+<div>
+  <img alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <p style="font-weight: 700">TypeScript</p>
 </div>
 
 <h3
