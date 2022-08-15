@@ -12,8 +12,8 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    width: 100%
-  "
+    width: 100%;
+    "
 >
 
   <h4
@@ -69,15 +69,7 @@
   Stacks primárias:
 </h3>
 
-<div
-  style="
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    flex-wrap: wrap;
-  "
->
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <div>
     <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <p style="text-align: center; font-weight: 700">JavaScript</p>
