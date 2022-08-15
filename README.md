@@ -82,24 +82,9 @@
   Stacks Secundárias:
 </h3>
 
-<div
-  style="
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    flex-wrap: wrap;
-  "
->
-  <div>
-    <img alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-    <p style="text-align: center; font-weight: 700">Docker</p>
-  </div>
-  <div>
-    <img alt="Jest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-    <p style="text-align: center; font-weight: 700">Jest</p>
-  </div>
-</div>
+| <img alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"> | <img alt="Jest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> |
+| :---: | :---:  |
+| <p style="text-align: center; font-weight: 700">Docker</p>    | <p style="text-align: center; font-weight: 700">Jest</p>
 
  ---
  
