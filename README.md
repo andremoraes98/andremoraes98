@@ -9,6 +9,7 @@
 <div
   style="
     display: flex;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     width: 100%
@@ -47,6 +48,7 @@
 <div
   style="
     display: flex;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
@@ -70,6 +72,7 @@
 <div
   style="
     display: flex;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
@@ -129,6 +132,7 @@
 <div
   style="
     display: flex;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
@@ -151,6 +155,7 @@
 <div
   style="
     display: flex;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
