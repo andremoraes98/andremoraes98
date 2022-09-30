@@ -21,8 +21,8 @@
       width: 50%;
     "
   >
-      Proatividade e resolutividade são as palavras que melhor me descrevem. Possuo facilidade de trabalhar em equipe, boa comunicação e sempre busco excelência nas minhas entregas.
-      Atualmente, busco uma oportunidade como Desenvolvedor Web para demonstrar todo esse foco em resolutividade, excelência e paixão pela área.
+      Proatividade e resolutividade são as palavras que melhor me descrevem. Possuo facilidade de trabalhar em equipe, boa comunicação e sempre busco excelência nas minhas entregas. Tenho como principal objetivo melhorar a rotina da sociedade através da tecnologia.
+Atualmente, busco uma oportunidade como Desenvolvedor Web para demonstrar todo esse foco em resolutividade, excelência e paixão pela área e concretizar o meu objetivo de impactar pessoas.
   </h4>
 
   <div
