@@ -40,6 +40,7 @@ Atualmente, busco uma oportunidade como Desenvolvedor Web para demonstrar todo e
 >
   Principais status:
 </h3>
+
 <div
   style="
     display: flex;
